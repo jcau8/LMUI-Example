@@ -1,2 +1,3 @@
-# LM-UI-Test
+# An Example of How to Use LMUI
 
+See `Core.cs`
